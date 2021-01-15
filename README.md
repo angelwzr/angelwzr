@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**angelwzr/angelwzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a system administrator working and living in Moscow, Russia.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### NOW
+- 🌗 Making Windows customization tool [darker](https://github.com/angelwzr/darker) (help wanted!)
+- 🎁 Working on improving my public wishlists service [GIFTSME](https://gogifts.me/) and attracting new users
+- 🔐 Creating a few private project I'm not ready to talk about yet
+- 💁‍♂️ Contributing to C# / UWP / Documentation projects
+
+##### INTERESTS
+- ⚙ Making Windows customization tools
+- 🏡 Smart Home / IoT
+- ⌨ Raspberry Pi projects
+- 👨‍🎓 Learning Linux amdinistration, C#, docker
+- ✍ Writing helpful blog posts from time to time
+
+#### NOTES
+- I'm mostly active on [Twitter](https://twitter.com/rlinev)
+- My favorite tools are `VS Code`, `Windows Terminal`, `VMware Workstation` and `Typora`
+- Wanna quit my full-time job and someday to work on my projects
