@@ -10,7 +10,6 @@
 - 💁‍♂️ Contributing to C# / UWP / Documentation projects
 
 ##### INTERESTS
-- ⚙ Making Windows customization tools
 - 🏡 Smart Home / IoT
 - ⌨ Raspberry Pi projects
 - 👨‍🎓 Learning Linux amdinistration, C#, docker
