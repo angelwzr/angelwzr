@@ -6,7 +6,7 @@
 ##### NOW
 - 🌗 Making Windows customization tool [darker](https://github.com/angelwzr/darker) (help wanted!)
 - 🎁 Working on improving my public wishlists service [GIFTSME](https://gogifts.me/) and attracting new users
-- 🔐 Creating a few private project I'm not ready to talk about yet
+- 🔐 Creating a few private projects I'm not ready to talk about yet
 - 💁‍♂️ Contributing to C# / UWP / Documentation projects
 
 ##### INTERESTS
