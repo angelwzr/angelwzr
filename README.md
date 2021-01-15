@@ -19,4 +19,4 @@
 #### NOTES
 - I'm mostly active on [Twitter](https://twitter.com/rlinev)
 - My favorite tools are `VS Code`, `Windows Terminal`, `VMware Workstation` and `Typora`
-- Wanna quit my full-time job and someday to work on my projects
+- Wanna quit my full-time job someday to work on personal projects
