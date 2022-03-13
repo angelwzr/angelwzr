@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a system administrator working and living in Moscow, Russia.
+#### I'm a system administrator / tech support engineer working and living near Moscow, Russia.
 
 
 ##### NOW
@@ -14,6 +14,7 @@
 - ⌨ Raspberry Pi projects
 - 👨‍🎓 Learning Linux amdinistration, C#, docker
 - ✍ Writing helpful blog posts from time to time
+- 🕹️ Retro gaming, collecting, console repair
 
 #### NOTES
 - I'm mostly active on [Twitter](https://twitter.com/rlinev)
