@@ -2,7 +2,6 @@
 
 I keep servers running, firmware compiling, and too many hobbies alive.
 Embedded + sysadmin by day, automating my own workflows the rest of the time.
-Moscow region, Russia. RU / EN.
 
 ### What I actually do
 
